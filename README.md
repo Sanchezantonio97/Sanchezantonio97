@@ -1,3 +1,14 @@
+# Hola 👋, mi nombre es Antonio y esto es mi cuaderno de bitácora (uno más) de este viaje llamado Doctorado.
+
+> A project without a corresponding goal is known as a "hobby".\A goal without a corresponding project, that's called a "dream".\An (underpaid) project with a (distant) goal and (endless) literature review is called a "PhD".
+
+
+
+
+
+
+
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
