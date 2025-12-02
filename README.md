@@ -10,7 +10,7 @@ Soy ingeniero de Caminos, Canales y Puertos, y aunque me apasione el desarrollo 
 <p align="center">
   <img src="https://imagenes.elpais.com/resizer/v2/3XLTWDI6QNOQBDZEOX4ZQQ67VI.jpg?auth=fb79e894ad6c3437584a9762d196fa379a9a986810dab87d83fbac72291a080e&width=1200" width="25%">
 </p>
-*(descripción gráfico de lo que veo en cuanto procuncio la frase)*
+*(descripción gráfica de lo que veo en cuanto procuncio la frase)*
 
 Inmediatamente después, siempre debo responder a 2 preguntas:
 
